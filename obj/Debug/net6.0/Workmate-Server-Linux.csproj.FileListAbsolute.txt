@@ -1,0 +1,17 @@
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/bin/Debug/net6.0/Workmate-Server-Linux
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/bin/Debug/net6.0/Workmate-Server-Linux.deps.json
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/bin/Debug/net6.0/Workmate-Server-Linux.runtimeconfig.json
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/bin/Debug/net6.0/Workmate-Server-Linux.dll
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/bin/Debug/net6.0/ref/Workmate-Server-Linux.dll
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/bin/Debug/net6.0/Workmate-Server-Linux.pdb
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/Workmate-Server-Linux.csproj.AssemblyReference.cache
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/Workmate-Server-Linux.GeneratedMSBuildEditorConfig.editorconfig
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/Workmate-Server-Linux.AssemblyInfoInputs.cache
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/Workmate-Server-Linux.AssemblyInfo.cs
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/Workmate-Server-Linux.csproj.CoreCompileInputs.cache
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/Workmate-Server-Linux.dll
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/ref/Workmate-Server-Linux.dll
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/Workmate-Server-Linux.pdb
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/Workmate-Server-Linux.genruntimeconfig.cache
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/bin/Debug/net6.0/SuperSimpleTcp.dll
+/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/Debug/net6.0/Workmate-Server-Linux.csproj.CopyComplete

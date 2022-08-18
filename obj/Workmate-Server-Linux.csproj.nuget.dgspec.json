@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/Workmate-Server-Linux.csproj": {}
+  },
+  "projects": {
+    "/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/Workmate-Server-Linux.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/Workmate-Server-Linux.csproj",
+        "projectName": "Workmate-Server-Linux",
+        "projectPath": "/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/Workmate-Server-Linux.csproj",
+        "packagesPath": "/home/matteopiffari/.nuget/packages/",
+        "outputPath": "/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/matteopiffari/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SuperSimpleTcp": {
+              "target": "Package",
+              "version": "[2.6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

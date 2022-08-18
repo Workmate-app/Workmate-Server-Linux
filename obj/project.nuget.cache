@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QwGibW0kIIdJQBFNFCSccEq/4O67YUWlilJXpsgsLSDhZZkYljQsJvOIQznjfBbrGAETIxkcaRtT3vgo0YY8Tw==",
+  "success": true,
+  "projectFilePath": "/home/matteopiffari/Documenti/GitHub/Workmate-Server-Linux/Workmate-Server-Linux.csproj",
+  "expectedPackageFiles": [
+    "/home/matteopiffari/.nuget/packages/supersimpletcp/2.6.1.4/supersimpletcp.2.6.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
